@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DPF</string>
+    <string name="buttonString">Start Device Discovery</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message_exchange">MessageExchangeActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sendButton">Send</string>
+    <string name="choose_neighbors">Choose Your Neighbors</string>
+    <string name="stringOk">OK</string>
+    <string name="ResetCreditString">ResetCredit</string>
+    <string name="dropPacketString">Drop Packets</string>
+</resources>
